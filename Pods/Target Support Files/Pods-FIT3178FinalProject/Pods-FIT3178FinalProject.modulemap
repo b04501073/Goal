@@ -1,0 +1,6 @@
+framework module Pods_FIT3178FinalProject {
+  umbrella header "Pods-FIT3178FinalProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
